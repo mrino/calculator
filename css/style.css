@@ -23,3 +23,25 @@
     width: 30px;
     height: 30px;
 }
+
+.special-day{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+}
+
+.days-left{
+    text-align: right;
+}
+
+.date{
+    color: #a0a0a0;
+}
+
+p{
+    margin-bottom: 1px;
+}
